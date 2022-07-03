@@ -5,6 +5,7 @@ Performance, Stability and Power optimization Developer @ ford.
 
 
 [![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngahmedd&hide=issues,contribs&count_private=true&show_icons=true&theme=radical)](https://github.com/youngahmedd/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youngahmedd)](https://github.com/youngahmedd/github-readme-stats)
 
 <!--
 **youngahmedd/youngahmedd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
