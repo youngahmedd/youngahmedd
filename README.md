@@ -1,6 +1,6 @@
 ### Hi there, I'm Ahmed👋
 
-I'm a 2B Computer Science 💻 at the University of Waterloo, I am double specializing in Human-Computer Interaction and Artificial Intelligence.
+I'm a 2B Computer Science 💻 at the University of Waterloo, I am double specializing in Human-Computer Interaction 👨‍💻 and Artificial Intelligence 🤖.
 
 I have many interests in the tech world which include Human-Computer Interaction, Product Management, Data Science, and anything that allows me to make an impact through Software.
 
