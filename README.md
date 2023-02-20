@@ -1,7 +1,6 @@
 ### Hi there, I'm Ahmed👋
 
-I am a 2A computer Science student at the Unvirsity of Waterloo, I am also an incoming Software 
-Performance, Stability and Power optimization Developer @ ford.
+I am a 2B computer Science student at the Unvirsity of Waterloo, I am also an incoming Software Developer Intern @ Okos, Prev @ Ford.
 
 
 [![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngahmedd&hide=issues,contribs&count_private=true&show_icons=true&theme=radical)](https://github.com/youngahmedd/github-readme-stats)
