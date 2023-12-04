@@ -1,10 +1,10 @@
 ### Hi there, I'm Ahmed👋
 
-I'm a 2B Computer Science 💻 at the University of Waterloo, I am double specializing in Human-Computer Interaction 👨‍💻 and Artificial Intelligence 🤖.
+I'm a 3A Computer Science student 💻 at the University of Waterloo, I am double specializing in Human-Computer Interaction 👨‍💻 and Artificial Intelligence 🤖.
 
 I have many interests in the tech world which include Human-Computer Interaction, Product Management, Data Science, and anything that allows me to make an impact through Software.
 
-I am also an incoming Software Developer Intern @ Okos Smart Homes 🏠, Prev @ Ford 🏎.
+I am also an incoming Product Manager @ SAP 🗄️, a Prev Software Engineering Intern @ Okos Smart Homes 🏠, and a Prev Software Engineering Intern @ Ford 🏎.
 
 
 [![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngahmedd&hide=issues,contribs&count_private=true&show_icons=true&theme=radical)](https://github.com/youngahmedd/github-readme-stats)
